@@ -25,7 +25,7 @@ To interact with the RedGreenOne contract, you will need to have a development e
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/redgreenone-token.git
+   https://github.com/sheezanazeer98/RedGreen1
    cd redgreenone-token
    ```
 2. Install dependencies:
